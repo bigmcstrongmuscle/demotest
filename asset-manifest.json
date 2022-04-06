@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/demotest/static/css/main.13bac355.chunk.css",
+    "main.js": "/demotest/static/js/main.cd9b03fd.chunk.js",
+    "main.js.map": "/demotest/static/js/main.cd9b03fd.chunk.js.map",
+    "runtime-main.js": "/demotest/static/js/runtime-main.d9c47702.js",
+    "runtime-main.js.map": "/demotest/static/js/runtime-main.d9c47702.js.map",
+    "static/js/2.96ad09b7.chunk.js": "/demotest/static/js/2.96ad09b7.chunk.js",
+    "static/js/2.96ad09b7.chunk.js.map": "/demotest/static/js/2.96ad09b7.chunk.js.map",
+    "static/css/3.1498f7b5.chunk.css": "/demotest/static/css/3.1498f7b5.chunk.css",
+    "static/js/3.d08e86d0.chunk.js": "/demotest/static/js/3.d08e86d0.chunk.js",
+    "static/js/3.d08e86d0.chunk.js.map": "/demotest/static/js/3.d08e86d0.chunk.js.map",
+    "static/css/4.2be5a058.chunk.css": "/demotest/static/css/4.2be5a058.chunk.css",
+    "static/js/4.12763eff.chunk.js": "/demotest/static/js/4.12763eff.chunk.js",
+    "static/js/4.12763eff.chunk.js.map": "/demotest/static/js/4.12763eff.chunk.js.map",
+    "static/css/5.2e09732f.chunk.css": "/demotest/static/css/5.2e09732f.chunk.css",
+    "static/js/5.1e8604fa.chunk.js": "/demotest/static/js/5.1e8604fa.chunk.js",
+    "static/js/5.1e8604fa.chunk.js.map": "/demotest/static/js/5.1e8604fa.chunk.js.map",
+    "static/js/6.fb6ce969.chunk.js": "/demotest/static/js/6.fb6ce969.chunk.js",
+    "static/js/6.fb6ce969.chunk.js.map": "/demotest/static/js/6.fb6ce969.chunk.js.map",
+    "index.html": "/demotest/index.html",
+    "precache-manifest.d001d5fd638717c88ed0cd38d9361513.js": "/demotest/precache-manifest.d001d5fd638717c88ed0cd38d9361513.js",
+    "service-worker.js": "/demotest/service-worker.js",
+    "static/css/3.1498f7b5.chunk.css.map": "/demotest/static/css/3.1498f7b5.chunk.css.map",
+    "static/css/4.2be5a058.chunk.css.map": "/demotest/static/css/4.2be5a058.chunk.css.map",
+    "static/css/5.2e09732f.chunk.css.map": "/demotest/static/css/5.2e09732f.chunk.css.map",
+    "static/css/main.13bac355.chunk.css.map": "/demotest/static/css/main.13bac355.chunk.css.map",
+    "static/js/2.96ad09b7.chunk.js.LICENSE.txt": "/demotest/static/js/2.96ad09b7.chunk.js.LICENSE.txt",
+    "static/media/userphoto.jpg": "/demotest/static/media/userphoto.c7976bfe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9c47702.js",
+    "static/js/2.96ad09b7.chunk.js",
+    "static/css/main.13bac355.chunk.css",
+    "static/js/main.cd9b03fd.chunk.js"
+  ]
+}
